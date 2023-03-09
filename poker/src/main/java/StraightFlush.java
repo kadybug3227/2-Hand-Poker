@@ -20,8 +20,6 @@ public class StraightFlush extends PokerHand {
     }
 
 
-    //add a win message - this probably be in the rules interface -- for the ties..?????
-
     public String toString(){
         String straightFlushString = pokerHandType.getPokerHandName() + " of ";
 

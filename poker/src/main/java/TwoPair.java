@@ -12,7 +12,6 @@ public class TwoPair extends PokerHand {
     private final int lastCardValue;
     private final String lastCardValueString;
 
-//pokerHandType, cardsRank, cardsRankString,tempRankOrder, pairValueString, pairValue);
 
     public TwoPair(PokerHandType pokerHandType, ArrayList<Integer> cardsRank,
                    ArrayList<String> cardsRankString, ArrayList<Integer> tempCardsRankSorted,
